@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIwNmE1OGFkNzEwODQzNjM1YTA4MTMyY2U2Y2M2ZWRiNmEzMzMwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XAxylRMCdpbEWUAvr8/giphy.gif" width="50%" alt="Cyber Banner GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIwNmE1OGFkNzEwODQzNjM1YTA4MTMyY2U2Y2M2ZWRiNmEzMzMwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XAxylRMCdpbEWUAvr8/giphy.gif" width="25%" alt="Cyber Banner GIF"/>
 </p>
 
 <h1 align="center">Hey 👋 I'm <span style="color:#007acc">AnonAmit</span></h1>
