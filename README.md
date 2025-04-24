@@ -1,16 +1,31 @@
-<!--
-This README serves as your GitHub profile README. Customize as needed.
--->
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIwNmE1OGFkNzEwODQzNjM1YTA4MTMyY2U2Y2M2ZWRiNmEzMzMwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XAxylRMCdpbEWUAvr8/giphy.gif" width="100%" alt="Cyber Banner GIF"/>
+</p>
+
+<h1 align="center">Hey 👋 I'm <span style="color:#007acc">AnonAmit</span></h1>
+<h3 align="center">🔍 Ethical Hacker | 🧠 AI Developer | 🚀 OSINT Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnonAmit&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/AnonAmit?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/AnonAmit?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/AnonAmit?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/AnonAmit?label=Stars&style=social" />
 </p>
 
-# Hi there, I'm **Anonymous Amit** 👋
+---
 
-I’m a passionate **AI Developer**, **Ethical Hacker**, and **OSINT Enthusiast** who loves building autonomous agents, chat tools, and security frameworks. With over **20+** open-source projects on GitHub, I aim to empower developers and defenders alike.
+## 🧑‍💻 Who is AnonAmit?
+
+I’m **Anonymous Amit** (aka **AnonAmit** online) –  
+A passionate developer on a journey to blend AI, OSINT, and cybersecurity into powerful tools.
+
+- 🔍 OSINT & Digital Footprinting
+- 🤖 Autonomous AI & ChatBots
+- 🛡️ Ethical Hacking & Cyber Tooling
+- 🧠 Mind Hacking, Prompts, and NLP
+
+> _Google me as_ **`AnonAmit GitHub`** or **`AnonAmit AI`** — you’ll find my open-source playground 🛠️
 
 ---
 
@@ -19,44 +34,50 @@ I’m a passionate **AI Developer**, **Ethical Hacker**, and **OSINT Enthusiast*
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
 | [TheAgentsClusters](https://github.com/AnonAmit/TheAgentsClusters) | Hyper-personalized autonomous AI agents framework. | Python · `asyncio` · `pydantic` |
-| [ChatMate](https://github.com/AnonAmit/ChatMate) | Browser extension delivering Hinglish chat recommendations. | JavaScript · `Chrome Extensions` · `Hinglish NLP` |
+| [ChatMate](https://github.com/AnonAmit/ChatMate) | Hinglish browser chat assistant with auto-replies. | JavaScript · Chrome · AI |
 | [EthHackX](https://github.com/AnonAmit/EthHackX) | CLI framework for ethical hacking workflows. | Python · `Click` · `scapy` |
-| [osint-tool](https://github.com/AnonAmit/osint-tool) | Open Source Intelligence (OSINT) CLI aggregator. | Python · `requests` · `BeautifulSoup` |
-| [tele-extractor-bot](https://github.com/AnonAmit/tele-extractor-bot) | Interactive Telegram file extractor bot. | Python · `python-telegram-bot` · `asyncio` |
-| [10-prompt-to-rewire-your-brain](https://github.com/AnonAmit/10-prompt-to-rewire-your-brain) | Collection of AI prompts to boost cognition. | Markdown · AI Prompts |
+| [osint-tool](https://github.com/AnonAmit/osint-tool) | OSINT data aggregator CLI. | Python · `requests` · `bs4` |
+| [tele-extractor-bot](https://github.com/AnonAmit/tele-extractor-bot) | Telegram file extraction bot. | Telegram API · `asyncio` |
+| [10-prompt-to-rewire-your-brain](https://github.com/AnonAmit/10-prompt-to-rewire-your-brain) | AI prompt collection to unlock mindset. | AI · Markdown |
 
 ---
 
-## ⭐️ Other Notable Projects
+## ⚒️ Skills
 
-- **MHDDoS-Telegram-Bot**: Control MHDDoS attack toolkit via Telegram. [Repo](https://github.com/AnonAmit/MHDDoS-Telegram-Bot)
-- **ig-blackout-engine**: Under development, Instagram blackout automation. [Repo](https://github.com/AnonAmit/ig-blackout-engine)
-- **ytloader**: Bulk YouTube video downloader. [Repo](https://github.com/AnonAmit/ytloader)
-- **GeminiAI-Telegram-Bot**: Google Generative AI powered Telegram chatbot. [Repo](https://github.com/AnonAmit/GeminiAI-Telegram-Bot)
-- **Site-Keyword-Monitoring**: Automated website keyword tracker. [Repo](https://github.com/AnonAmit/Site-Keyword-Monitoring)
-
-> _Explore all projects on my [GitHub Repositories](https://github.com/AnonAmit?tab=repositories)._  
+- 🧠 **AI/ML**: OpenAI, LangChain, YOLOv8, Prompt Engineering
+- 🕵️ **OSINT**: Sherlock, Scapy, Nmap, Telegram Scraping
+- 💻 **Code**: Python, JS/TS, Shell, GitHub Actions
+- 🌐 **Dev**: APIs, CLI Tools, Chrome Extensions, Docker
 
 ---
 
-## 💡 Skills & Technologies
+## 📈 GitHub Stats (Dark/Light Auto Theme)
 
-- **Languages:** Python, JavaScript, TypeScript, Bash
-- **AI & Automation:** OpenAI API, LangChain, GPT Agents, YOLOv8
-- **Security & OSINT:** Nmap, Scapy, OSINT Frameworks, Ethical Hacking
-- **Web & Tools:** Chrome Extensions, REST APIs, Docker, Git
-- **Data & DevOps:** SQL, MongoDB, GitHub Actions, CI/CD Pipelines
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=AnonAmit&show_icons=true&theme=github_dark" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=AnonAmit&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AnonAmit&show_icons=true" />
+  </picture>
+</div>
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact Me
 
-- 📧 Email: [null](mailto:null)
-- 🔗 LinkedIn: [AnonymousAmit](https://www.linkedin.com/in/AnonymousAmit)
+- 🌐 Website: [anonamit.dev](#)
 - 🐦 Twitter: [@AnonAmit](https://twitter.com/AnonymousAmitx)
+- 🔗 LinkedIn: [linkedin.com/in/AnonymousAmit](https://www.linkedin.com/in/AnonymousAmit)
 
 ---
 
 <p align="center">
-  Built with ❤️ by **Anonymous Amit**
+  🔍 <strong>Search: <code>AnonAmit GitHub</code></strong>  
+  ❤️ Made with love by <strong>Anonymous Amit</strong>
 </p>
