@@ -51,7 +51,7 @@ A passionate developer on a journey to blend AI, OSINT, and cybersecurity into p
 
 ---
 
-## 📈 GitHub Stats (Dark/Light Auto Theme)
+## 📈 GitHub Stats 
 
 <div align="center">
   <picture>
