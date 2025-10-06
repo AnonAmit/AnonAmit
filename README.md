@@ -79,5 +79,4 @@ A passionate developer on a journey to blend AI, OSINT, and cybersecurity into p
 
 <p align="center">
   🔍 <strong>Search: <code>AnonAmit GitHub</code></strong>  
-  ❤️ Made with love by <strong>Anonymous Amit</strong>
 </p>
