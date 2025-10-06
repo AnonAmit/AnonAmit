@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hey 👋 I'm <span style="color:#007acc">AnonAmit</span></h1>
-<h3 align="center">🔍 Ethical Hacker | 🧠 AI Developer | 🚀 OSINT Expert</h3>
+<h3 align="center">🔍 Ethical Hacker | 🧠 AI Developer | </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnonAmit&color=blue" alt="Profile views" />
