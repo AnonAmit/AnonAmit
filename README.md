@@ -11,7 +11,7 @@
   <a href="https://github.com/AnonAmit?tab=followers">
     <img src="https://img.shields.io/github/followers/AnonAmit?style=for-the-badge&color=0891b2&labelColor=0d1117&label=Followers" alt="Followers"/>
   </a>
-  <a href="https://twitter.com/AnonymousAmitx">
+  <a href="https://twitter.com/An0nymousAmit">
     <img src="https://img.shields.io/badge/Twitter-@AnonAmit-0891b2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/AnonymousAmit">
@@ -20,6 +20,8 @@
 </p>
 
 </div>
+
+---
 
 ## `$ whoami`
 
@@ -33,6 +35,7 @@ class AnonAmit:
 ```
 
 > I build at the intersection of **AI**, **cybersecurity**, and **open-source tooling** — creating autonomous agents, OSINT frameworks, and developer utilities that solve real problems.
+
 ---
 
 ## 🚀 Featured Projects
@@ -105,21 +108,49 @@ A Chrome extension delivering personalized, context-aware Hinglish (Hindi + Engl
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [10-Prompts-To-Rewire-Your-Brain](https://github.com/AnonAmit/10-prompt-to-rewire-your-brain)
-**AI Prompt Engineering Collection**
+### 📸 [SnipOCR](https://github.com/AnonAmit/SnipOCR)
+**AI-Powered Screen Text Extractor — Windows**
 
-A curated collection of high-impact prompts designed to unlock advanced reasoning, mindset shifts, and creative thinking using modern LLMs. Part prompt engineering, part applied NLP.
+Snip any region of your screen and instantly get editable text via Google Gemini AI, with automatic offline fallback to Tesseract OCR. Lives in the system tray, supports global hotkeys, and auto-copies results to clipboard. Released as a portable `.exe` with v2.0 stable.
 
-![Type](https://img.shields.io/badge/Type-Prompt%20Engineering-0891b2?style=flat-square)
-![AI](https://img.shields.io/badge/AI-NLP%20%7C%20Mindset-8b5cf6?style=flat-square)
-![Format](https://img.shields.io/badge/Format-Markdown-f59e0b?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Windows-0891b2?style=flat-square&logo=windows&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-Gemini%20%7C%20Tesseract-8b5cf6?style=flat-square)
+![NET](https://img.shields.io/badge/.NET-8.0-f59e0b?style=flat-square&logo=dotnet&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌡️ [AsusFanControl](https://github.com/AnonAmit/AsusFanControl)
+**Custom Fan Curve Controller for ASUS Laptops**
+
+Takes back thermal control from stock ASUS firmware. Features an interactive graphical fan-curve editor with draggable nodes, multi-profile support, smart hysteresis, a background daemon, and a sleek dark-themed GUI. Works on VivoBook, ZenBook, TUF, ROG Strix, Zephyrus & Flow series.
+
+![Platform](https://img.shields.io/badge/Platform-Windows%2064--bit-0891b2?style=flat-square&logo=windows&logoColor=white)
+![Lang](https://img.shields.io/badge/C%23-.NET-8b5cf6?style=flat-square&logo=csharp&logoColor=white)
+![Compat](https://img.shields.io/badge/ASUS-ROG%20%7C%20TUF%20%7C%20ZenBook-f59e0b?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [SafeMove](https://github.com/AnonAmit/SafeMove)
+**AI-Assisted App Mover — Free Your C: Drive**
+
+Safely migrates installed applications from C: → D: without breaking them, using Windows NTFS Junctions and `robocopy` for atomic, verified transfers. Includes an AI safety advisor (Cloud or Ollama), a cyberpunk-themed GUI, disk health dashboard, and automatic system-folder protection.
+
+![Python](https://img.shields.io/badge/Python-3.11+-0891b2?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Cloud%20%7C%20Ollama-8b5cf6?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-NTFS%20Junctions-f59e0b?style=flat-square&logo=windows&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
 </table>
 
 ---
-
 
 ## 🧰 Tech Stack
 
@@ -131,6 +162,7 @@ A curated collection of high-impact prompts designed to unlock advanced reasonin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **AI / ML**
 
@@ -174,7 +206,7 @@ A curated collection of high-impact prompts designed to unlock advanced reasonin
 
 | Platform | Handle |
 |----------|--------|
-| 🐦 Twitter / X | [@AnonymousAmitx](https://twitter.com/AnonymousAmitx) |
+| 🐦 Twitter / X | [@AnonymousAmitx](https://twitter.com/An0nymousAmit) |
 | 💼 LinkedIn | [AnonymousAmit](https://www.linkedin.com/in/AnonymousAmit) |
 | 🐙 GitHub | [AnonAmit](https://github.com/AnonAmit) |
 
