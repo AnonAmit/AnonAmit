@@ -209,6 +209,7 @@ Safely migrates installed applications from C: → D: without breaking them, usi
 | 🐦 Twitter / X | [@AnonymousAmitx](https://twitter.com/An0nymousAmit) |
 | 💼 LinkedIn | [AnonymousAmit](https://www.linkedin.com/in/AnonymousAmit) |
 | 🐙 GitHub | [AnonAmit](https://github.com/AnonAmit) |
+| 📞 Telegram| [ANONYMOUS_AMIT](https://t.me/ANONYMOUS_AMIT) |
 
 </div>
 
