@@ -35,9 +35,6 @@ class AnonAmit:
   
  "You can study something for years but someone who's lived it for months can still beat you when it's real."
 
-
-> I build at the intersection of **AI**, **cybersecurity**, and **open-source tooling** — creating autonomous agents, OSINT frameworks, and developer utilities that solve real problems.
-
 ---
 
 ## 🚀 Featured Projects
