@@ -31,7 +31,8 @@ class AnonAmit:
     alias    = "AnonAmit"
     location = "India 🇮🇳"
     focus    = ["Autonomous AI Agents", "OSINT Tooling", "Ethical Hacking", "CLI Dev"]
-    
+```
+```json   
  "You can study something for years but someone who's lived it for months can still beat you when it's real."
 ```
 
