@@ -31,7 +31,8 @@ class AnonAmit:
     alias    = "AnonAmit"
     location = "India 🇮🇳"
     focus    = ["Autonomous AI Agents", "OSINT Tooling", "Ethical Hacking", "CLI Dev"]
-    motto    = "Build tools that think. Hack systems that don't."
+    
+ "You can study something for years but someone who's lived it for months can still beat you when it's real."
 ```
 
 > I build at the intersection of **AI**, **cybersecurity**, and **open-source tooling** — creating autonomous agents, OSINT frameworks, and developer utilities that solve real problems.
