@@ -22,19 +22,7 @@
 </div>
 
 ---
-
-## `$ whoami`
-
-```python
-class AnonAmit:
-    name     = "Anonymous Amit"
-    alias    = "AnonAmit"
-    location = "India 🇮🇳"
-    focus    = ["Autonomous AI Agents", "OSINT", "Ethical Hacking", "Reverse Engineering"]
-```
-  
  "You can study something for years but someone who's lived it for months can still beat you when it's real."
-
 ---
 
 ## 🧰 Tech Stack
